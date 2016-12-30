@@ -21,5 +21,22 @@
 原理就是调用CMD命令中的route命令让10开头的IP地址都走内网的网关，没办法解决的就是寝室内网DHCP自动分配（实现固定IP比较麻烦），无法实现程序永久有效，只能使用前开一次（事实上电信用户可以设置为计划任务，这样就可以在后台自动运行了）。
 事实上上可以写出永久有效的命令，但是考虑到放假同学要拿回家或者带着电脑去实习等问题，还是不做为好。  
 虽说后面有些刷版本号的嫌疑>_<，但确实是在针对学校移动DNS劫持问题在不断解决。   
-#### 未来的打算  （这个或许没有了）
-打算以后用C++重新写一份，实现检查版本号自动更新什么的0.0，写的BAT加上EXE的壳基本被市面杀软误报QAQ（大数字说的就是你）。
+#### ~~未来的打算  （这个没有了）~~
+~~打算以后用C++重新写一份，实现检查版本号自动更新什么的0.0，写的BAT加上EXE的壳基本被市面杀软误报QAQ（大数字说的就是你）。~~
+
+##License 
+本程序遵从WTFPL协议[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)
+
+        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+                    Version 2, December 2004 
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
+
+ Everyone is permitted to copy and distribute verbatim or modified 
+ copies of this license document, and changing it is allowed as long 
+ as the name is changed. 
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
