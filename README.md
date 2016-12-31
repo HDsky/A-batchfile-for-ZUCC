@@ -27,7 +27,7 @@
 ##License 
 本程序遵从WTFPL协议[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)  
 
-Copyright © 2016 Hdsky <hd852025@hotmail.com>  
+Copyright © 2016 HDsky <hd852025@hotmail.com>  
 This work is free. You can redistribute it and/or modify it under the  
 terms of the Do What The Fuck You Want To Public License, Version 2,  
 as published by Sam Hocevar. See the COPYING file for more details
