@@ -25,19 +25,9 @@
 ~~打算以后用C++重新写一份，实现检查版本号自动更新什么的0.0，写的BAT加上EXE的壳基本被市面杀软误报QAQ（大数字说的就是你）。~~
 
 ##License 
-本程序遵从WTFPL协议[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)
+本程序遵从WTFPL协议[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)  
 
->      DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE  
->  
->               Version 2, December 2004 
->
-> Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
->
-> Everyone is permitted to copy and distribute verbatim or modified 
-> copies of this license document, and changing it is allowed as long 
-> as the name is changed. 
->
->            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
->   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION  
->   
->   0 . You just DO WHAT THE FUCK YOU WANT TO.
+Copyright © 2016 Hdsky <hd852025@hotmail.com>  
+This work is free. You can redistribute it and/or modify it under the  
+terms of the Do What The Fuck You Want To Public License, Version 2,  
+as published by Sam Hocevar. See the COPYING file for more details
