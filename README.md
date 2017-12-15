@@ -24,11 +24,3 @@
 虽说后面有些刷版本号的嫌疑>_<，但确实是在针对学校移动DNS劫持问题在不断解决。   
 #### ~~未来的打算  （这个没有了）~~
 ~~打算以后用C++重新写一份，实现检查版本号自动更新什么的0.0，写的BAT加上EXE的壳基本被市面杀软误报QAQ（大数字说的就是你）。~~
-
-##License 
-本程序遵从WTFPL协议[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)  
-
-Copyright © 2016 HDsky <hd852025@hotmail.com>   
-This work is free. You can redistribute it and/or modify it under the  
-terms of the Do What The Fuck You Want To Public License, Version 2,  
-as published by Sam Hocevar. See the COPYING file for more details
