@@ -1,8 +1,8 @@
-# 用于ZUCC南校区寝室内外网同时访问的BAT命令行批处理脚本  
+# 用于ZUCC寝室内外网同时访问的BAT命令行批处理脚本  
 [![A-batchfile-for-ZUCC version](https://img.shields.io/badge/version-V07-blue.svg)](https://github.com/HDsky/A-batchfile-for-ZUCC)
 
 ## 版本说明：最新版（其他版本见程序内说明）  
-- 本程序适用于ZUCC南校区所有学生寝室（明德三除外），可使电脑在不用中断宽带连接的情况下访问内网。
+- 本程序适用于ZUCC所有学生寝室，可使电脑在不用中断宽带连接的情况下访问内网。
 - 如遇防毒软件警报，系误报，本人保证程序绝无病毒，有些提示修改系统关键信息请点击允许。
 - 哈勃分析报告https://habo.qq.com/file/showdetail?md5=c2fc08a620680ce91a034484adec0eae&pk=ADYGYF1lB24IMFs7
 - 每次需要用到内外网同时访问前请使用本程序，失效后如需内外网同时访问需再次使用本程序。
